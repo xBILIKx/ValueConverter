@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/value_code_ruble" />
+    <item android:title="@string/value_code_armenian_dram" />
+    <item android:title="@string/value_code_australian_dollars" />
+    <item android:title="@string/value_code_azerbaijani_manat" />
+    <item android:title="@string/value_code_belarusian_ruble" />
+    <item android:title="@string/value_code_Swiss_frank" />
+    <item android:title="@string/value_code_Brazilian_Real" />
+    <item android:title="@string/value_code_Bulgarian_Lev" />
+    <item android:title="@string/value_code_Canadian_dollar" />
+    <item android:title="@string/value_code_CNY" />
+    <item android:title="@string/value_code_Czech_crowns" />
+    <item android:title="@string/value_code_Danish_krone" />
+    <item android:title="@string/value_code_Euro" />
+    <item android:title="@string/value_code_Hong_Kong_dollar" />
+    <item android:title="@string/value_code_Hungarian_forints" />
+    <item android:title="@string/value_code_Indian_rupees" />
+    <item android:title="@string/value_code_Japanese_yen" />
+    <item android:title="@string/value_code_Kazakhstani_tenge" />
+    <item android:title="@string/value_code_Kyrgyzstani_soms" />
+    <item android:title="@string/value_code_Moldovan_lei" />
+    <item android:title="@string/value_code_New_Turkmen_manat" />
+    <item android:title="@string/value_code_Norwegian_kroner" />
+    <item android:title="@string/value_code_Polish_zloty" />
+    <item android:title="@string/value_code_pound" />
+    <item android:title="@string/value_code_Republic_of_Korea_Won" />
+    <item android:title="@string/value_code_Romanian_leu" />
+    <item android:title="@string/value_code_SDR" />
+    <item android:title="@string/value_code_Singapore_dollar" />
+    <item android:title="@string/value_code_South_African_rand" />
+    <item android:title="@string/value_code_Uzbek_sum" />
+    <item android:title="@string/value_code_US_dollar" />
+    <item android:title="@string/value_code_Ukrainian_hryvnia" />
+    <item android:title="@string/value_code_Turkish_Lira" />
+    <item android:title="@string/value_code_Tajik_somoni" />
+    <item android:title="@string/value_code_Swedish_krona" />
+</menu>
